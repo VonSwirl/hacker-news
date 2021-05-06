@@ -1,0 +1,24 @@
+{
+  "name": "hacker-news",
+  "version": "1.0.0",
+  "description": "Hacker New Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VonSwirl/hacker-news.git"
+  },
+  "keywords": [
+    "react",
+    "gatsby",
+    "node"
+  ],
+  "author": "Jerome Hurley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VonSwirl/hacker-news/issues"
+  },
+  "homepage": "https://github.com/VonSwirl/hacker-news#readme"
+}
